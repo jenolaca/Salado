@@ -10,33 +10,22 @@ using System.Windows.Forms;
 
 namespace SaladoV1
 {
-    public partial class Introduccion : Form
+    public partial class HistoriaNIvel2 : Form
     {
-        public Introduccion()
+        public HistoriaNIvel2()
         {
             InitializeComponent();
         }
 
-        private void label1_Click(object sender, EventArgs e)
+        private void label2_Click(object sender, EventArgs e)
         {
 
-        }
-
-        private void button9_Click(object sender, EventArgs e)
-        {
-            Nivel a = new Nivel();
-            a.Show();
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            HistoriaNIvel2 a = new HistoriaNIvel2();
+            PreguntasNiel1 a = new PreguntasNiel1();
             a.Show();
-        }
-
-        private void Introduccion_Load(object sender, EventArgs e)
-        {
-            
         }
     }
 }

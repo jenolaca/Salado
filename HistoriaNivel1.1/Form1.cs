@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace SaladoV1
+namespace HistoriaNivel1._1
 {
-    public partial class HistoriaNivel111 : Form
+    public partial class Form1 : Form
     {
-        public HistoriaNivel111()
+        public Form1()
         {
             InitializeComponent();
         }

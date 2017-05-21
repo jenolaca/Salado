@@ -38,10 +38,10 @@
             this.Bnt2 = new System.Windows.Forms.Button();
             this.Bnt1 = new System.Windows.Forms.Button();
             this.button9 = new System.Windows.Forms.Button();
-            this.pictureBox2 = new System.Windows.Forms.PictureBox();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.linkLabel1 = new System.Windows.Forms.LinkLabel();
             this.label1 = new System.Windows.Forms.Label();
+            this.pictureBox2 = new System.Windows.Forms.PictureBox();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
@@ -51,7 +51,7 @@
             this.bnt9.BackColor = System.Drawing.Color.MediumSeaGreen;
             this.bnt9.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.bnt9.ForeColor = System.Drawing.Color.White;
-            this.bnt9.Location = new System.Drawing.Point(249, 599);
+            this.bnt9.Location = new System.Drawing.Point(239, 520);
             this.bnt9.Name = "bnt9";
             this.bnt9.Size = new System.Drawing.Size(148, 29);
             this.bnt9.TabIndex = 18;
@@ -63,7 +63,7 @@
             this.Bnt8.BackColor = System.Drawing.Color.MediumSeaGreen;
             this.Bnt8.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Bnt8.ForeColor = System.Drawing.Color.White;
-            this.Bnt8.Location = new System.Drawing.Point(249, 563);
+            this.Bnt8.Location = new System.Drawing.Point(239, 484);
             this.Bnt8.Name = "Bnt8";
             this.Bnt8.Size = new System.Drawing.Size(148, 29);
             this.Bnt8.TabIndex = 17;
@@ -75,7 +75,7 @@
             this.Bnt7.BackColor = System.Drawing.Color.MediumSeaGreen;
             this.Bnt7.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Bnt7.ForeColor = System.Drawing.Color.White;
-            this.Bnt7.Location = new System.Drawing.Point(249, 526);
+            this.Bnt7.Location = new System.Drawing.Point(239, 447);
             this.Bnt7.Name = "Bnt7";
             this.Bnt7.Size = new System.Drawing.Size(148, 29);
             this.Bnt7.TabIndex = 16;
@@ -87,7 +87,7 @@
             this.Bnt6.BackColor = System.Drawing.Color.MediumSeaGreen;
             this.Bnt6.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Bnt6.ForeColor = System.Drawing.Color.White;
-            this.Bnt6.Location = new System.Drawing.Point(249, 490);
+            this.Bnt6.Location = new System.Drawing.Point(239, 411);
             this.Bnt6.Name = "Bnt6";
             this.Bnt6.Size = new System.Drawing.Size(148, 29);
             this.Bnt6.TabIndex = 15;
@@ -99,7 +99,7 @@
             this.Bnt5.BackColor = System.Drawing.Color.MediumSeaGreen;
             this.Bnt5.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Bnt5.ForeColor = System.Drawing.Color.White;
-            this.Bnt5.Location = new System.Drawing.Point(249, 453);
+            this.Bnt5.Location = new System.Drawing.Point(239, 374);
             this.Bnt5.Name = "Bnt5";
             this.Bnt5.Size = new System.Drawing.Size(148, 29);
             this.Bnt5.TabIndex = 14;
@@ -111,7 +111,7 @@
             this.Bnt4.BackColor = System.Drawing.Color.MediumSeaGreen;
             this.Bnt4.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Bnt4.ForeColor = System.Drawing.Color.White;
-            this.Bnt4.Location = new System.Drawing.Point(249, 417);
+            this.Bnt4.Location = new System.Drawing.Point(239, 338);
             this.Bnt4.Name = "Bnt4";
             this.Bnt4.Size = new System.Drawing.Size(148, 29);
             this.Bnt4.TabIndex = 13;
@@ -123,7 +123,7 @@
             this.Bnt3.BackColor = System.Drawing.Color.MediumSeaGreen;
             this.Bnt3.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Bnt3.ForeColor = System.Drawing.Color.LemonChiffon;
-            this.Bnt3.Location = new System.Drawing.Point(249, 382);
+            this.Bnt3.Location = new System.Drawing.Point(239, 303);
             this.Bnt3.Name = "Bnt3";
             this.Bnt3.Size = new System.Drawing.Size(148, 29);
             this.Bnt3.TabIndex = 12;
@@ -135,7 +135,7 @@
             this.Bnt2.BackColor = System.Drawing.Color.MediumSeaGreen;
             this.Bnt2.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Bnt2.ForeColor = System.Drawing.Color.LemonChiffon;
-            this.Bnt2.Location = new System.Drawing.Point(249, 345);
+            this.Bnt2.Location = new System.Drawing.Point(239, 266);
             this.Bnt2.Name = "Bnt2";
             this.Bnt2.Size = new System.Drawing.Size(148, 29);
             this.Bnt2.TabIndex = 11;
@@ -148,7 +148,7 @@
             this.Bnt1.BackColor = System.Drawing.Color.MediumSeaGreen;
             this.Bnt1.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Bnt1.ForeColor = System.Drawing.Color.LemonChiffon;
-            this.Bnt1.Location = new System.Drawing.Point(249, 310);
+            this.Bnt1.Location = new System.Drawing.Point(239, 231);
             this.Bnt1.Name = "Bnt1";
             this.Bnt1.Size = new System.Drawing.Size(148, 29);
             this.Bnt1.TabIndex = 10;
@@ -161,37 +161,19 @@
             this.button9.BackColor = System.Drawing.Color.MediumSeaGreen;
             this.button9.Font = new System.Drawing.Font("Microsoft YaHei UI", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button9.ForeColor = System.Drawing.Color.White;
-            this.button9.Location = new System.Drawing.Point(89, 672);
+            this.button9.Location = new System.Drawing.Point(228, 583);
             this.button9.Name = "button9";
             this.button9.Size = new System.Drawing.Size(110, 38);
             this.button9.TabIndex = 20;
-            this.button9.Text = "Salir";
+            this.button9.Text = "Exit";
             this.button9.UseVisualStyleBackColor = false;
-            // 
-            // pictureBox2
-            // 
-            this.pictureBox2.Image = global::SaladoV1.Properties.Resources.m;
-            this.pictureBox2.Location = new System.Drawing.Point(70, 220);
-            this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(158, 446);
-            this.pictureBox2.TabIndex = 19;
-            this.pictureBox2.TabStop = false;
-            // 
-            // pictureBox1
-            // 
-            this.pictureBox1.Image = global::SaladoV1.Properties.Resources.wireframes1;
-            this.pictureBox1.Location = new System.Drawing.Point(-3, 2);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(490, 866);
-            this.pictureBox1.TabIndex = 0;
-            this.pictureBox1.TabStop = false;
             // 
             // linkLabel1
             // 
             this.linkLabel1.AutoSize = true;
             this.linkLabel1.Font = new System.Drawing.Font("Century Schoolbook", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.linkLabel1.LinkColor = System.Drawing.Color.ForestGreen;
-            this.linkLabel1.Location = new System.Drawing.Point(255, 268);
+            this.linkLabel1.Location = new System.Drawing.Point(245, 189);
             this.linkLabel1.Name = "linkLabel1";
             this.linkLabel1.Size = new System.Drawing.Size(136, 25);
             this.linkLabel1.TabIndex = 21;
@@ -205,18 +187,36 @@
             this.label1.AutoEllipsis = true;
             this.label1.Font = new System.Drawing.Font("Century Schoolbook", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.MediumSeaGreen;
-            this.label1.Location = new System.Drawing.Point(112, 167);
+            this.label1.Location = new System.Drawing.Point(111, 132);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(238, 40);
             this.label1.TabIndex = 22;
             this.label1.Text = "Seleccion de nivel";
             this.label1.UseCompatibleTextRendering = true;
             // 
+            // pictureBox2
+            // 
+            this.pictureBox2.Image = global::SaladoV1.Properties.Resources.m1;
+            this.pictureBox2.Location = new System.Drawing.Point(55, 175);
+            this.pictureBox2.Name = "pictureBox2";
+            this.pictureBox2.Size = new System.Drawing.Size(158, 446);
+            this.pictureBox2.TabIndex = 19;
+            this.pictureBox2.TabStop = false;
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Image = global::SaladoV1.Properties.Resources.wireframes4;
+            this.pictureBox1.Location = new System.Drawing.Point(-3, 1);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(476, 841);
+            this.pictureBox1.TabIndex = 0;
+            this.pictureBox1.TabStop = false;
+            // 
             // Nivel
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(472, 750);
+            this.ClientSize = new System.Drawing.Size(534, 750);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.linkLabel1);
             this.Controls.Add(this.button9);
@@ -243,8 +243,6 @@
         }
 
         #endregion
-
-        private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.Button Bnt1;
         private System.Windows.Forms.Button Bnt2;
         private System.Windows.Forms.Button Bnt3;
@@ -258,6 +256,7 @@
         private System.Windows.Forms.Button button9;
         private System.Windows.Forms.LinkLabel linkLabel1;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.PictureBox pictureBox1;
     }
 }
 

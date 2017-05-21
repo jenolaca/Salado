@@ -20,20 +20,24 @@ namespace SaladoV1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            HistoriaNIvel1 frm = new HistoriaNIvel1();
+            HistoriaNIvel2 frm = new HistoriaNIvel2();
             frm.Show();
+            this.Visible = false;
         }
 
         private void Bnt2_Click(object sender, EventArgs e)
         {
-            //PreguntasNivel11 a = new PreguntasNivel11();
-            //a.Show();
+            Introduccion a = new Introduccion();
+            a.Show();
         }
 
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
+            
             Introduccion a = new Introduccion();
             a.Show();
+            this.Visible = false;
+
         }
     }
 }

@@ -52,11 +52,11 @@
     <Compile Include="HistoriaNivel1.1.Designer.cs">
       <DependentUpon>HistoriaNivel1.1.cs</DependentUpon>
     </Compile>
-    <Compile Include="HistoriaNIvel1.cs">
+    <Compile Include="HistoriaNIvel2.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="HistoriaNIvel1.Designer.cs">
-      <DependentUpon>HistoriaNIvel1.cs</DependentUpon>
+    <Compile Include="HistoriaNIvel2.Designer.cs">
+      <DependentUpon>HistoriaNIvel2.cs</DependentUpon>
     </Compile>
     <Compile Include="HistoriaNivel111.cs">
       <SubType>Form</SubType>
@@ -69,6 +69,17 @@
     </Compile>
     <Compile Include="PreguntasNiel1.Designer.cs">
       <DependentUpon>PreguntasNiel1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PreguntasNivel1.1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PreguntasNivel1.1.Designer.cs">
+      <DependentUpon>PreguntasNivel1.1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
     <Compile Include="Seleccion_Nivel.cs">
       <SubType>Form</SubType>
@@ -87,8 +98,8 @@
     <EmbeddedResource Include="HistoriaNivel1.1.resx">
       <DependentUpon>HistoriaNivel1.1.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="HistoriaNIvel1.resx">
-      <DependentUpon>HistoriaNIvel1.cs</DependentUpon>
+    <EmbeddedResource Include="HistoriaNIvel2.resx">
+      <DependentUpon>HistoriaNIvel2.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="HistoriaNivel111.resx">
       <DependentUpon>HistoriaNivel111.cs</DependentUpon>
@@ -99,19 +110,17 @@
     <EmbeddedResource Include="PreguntasNiel1.resx">
       <DependentUpon>PreguntasNiel1.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="PreguntasNivel1.1.resx">
+      <DependentUpon>PreguntasNivel1.1.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Seleccion_Nivel.resx">
       <DependentUpon>Seleccion_Nivel.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <Compile Include="Properties\Resources.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DependentUpon>Resources.resx</DependentUpon>
-      <DesignTime>True</DesignTime>
-    </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -124,9 +133,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\wireframes.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\level.png" />
@@ -145,6 +151,15 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\foto2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wireframes.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wireframes1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\m1.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

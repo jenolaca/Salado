@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace SaladoV1
 {
-    public partial class PreguntasNivel11 : Form
+    public partial class HistoriaNivel1 : Form
     {
-        public PreguntasNivel11()
+        public HistoriaNivel1()
         {
             InitializeComponent();
         }
